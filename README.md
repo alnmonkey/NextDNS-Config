@@ -414,7 +414,7 @@ We based the recommendations below on a combination of effectiveness, resource e
 
 | OS | Browser | Content Blocker |
 |---|---|---|
-| iOS | [Safari](https://www.privacyguides.org/en/mobile-browsers/#safari) | [wBlock](https://apps.apple.com/us/app/wblock/id6746388723) or [AdGuard](https://www.privacyguides.org/en/browser-extensions/?h=adguard#adguard) |
+| iOS | [Safari](https://www.privacyguides.org/en/mobile-browsers/#safari) | [wBlock](https://apps.apple.com/us/app/wblock/id6746388723), [uBlock Origin Lite](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698), or [AdGuard](https://www.privacyguides.org/en/browser-extensions/?h=adguard#adguard) |
 | Android | [Brave](https://www.privacyguides.org/en/mobile-browsers/#brave) | Built-in blocker |
 | Windows <br> macOS <br> Linux | [Firefox](https://www.mozilla.org/en-US/firefox/new/) (with [Betterfox](https://github.com/yokoffing/Betterfox#betterfox)) <p><p> [Brave](https://www.privacyguides.org/en/desktop-browsers/#brave) | [uBlock Origin](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) <p><p> Built-in blocker or [uBlock Origin](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) |  |
 
